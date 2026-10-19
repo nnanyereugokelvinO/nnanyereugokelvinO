@@ -1,0 +1,11 @@
+WN11-AU-000083 - User-provided PowerShell verification transcript
+
+PS C:\Windows\system32> auditpol /get /subcategory:"Other Object Access Events"
+System audit policy
+Category/Subcategory                      Setting
+Object Access
+  Other Object Access Events              Success
+PS C:\Windows\system32>
+
+Note: Transcribed from user message, not an original VM screenshot.
+Tenable rescan pending.
